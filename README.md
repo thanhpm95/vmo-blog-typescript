@@ -10,8 +10,8 @@
   + npm run start
 
 - Migrate databas:
-+ cd dist
-+ npx sequelize-cli db:migrate
+  + cd dist
+  + npx sequelize-cli db:migrate
 
 
 - Các type người dùng gồm:
